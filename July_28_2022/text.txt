@@ -1,0 +1,25 @@
+Today's Topics
+#Cloud watch
+    Metrics
+    CPU utilization
+    How to set a alarm for CPU utilization
+#Virtual Private Cloud
+private ip ranges
+    class a 
+    class b
+    class c
+How to give a subnet masks
+#cidr
+creating a our own VPC
+    creating subnets
+    creating a ROUTE TABLE
+        public and private
+    creating internate gateway and NAT gateway
+lunching a private web server with bastion-jump server
+
+
+
+
+
+
+    
