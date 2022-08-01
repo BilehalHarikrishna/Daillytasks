@@ -1,0 +1,18 @@
+Today's learnt Topics and task complition
+Github Actions
+    Essential features
+    Expressions
+    contexts
+YAML file syntax
+Using workflows
+    workflows
+    Triggering a workflow
+    Events
+    workflow syntax
+Using jobs
+Assigning permissions
+Using github actions to auto upload to Aws S3 bucket
+CI and CD 
+with simple push command
+
+
