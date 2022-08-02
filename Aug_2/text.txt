@@ -1,0 +1,24 @@
+Today's completion
+Git hub Actions
+push and pull_request-Triggering a workflow to run automatically
+action/checkout-cloning rep
+Contexts
+    job
+    env
+    steps
+    runner
+    secrets
+    strategy
+    matrix
+    needs
+about environments variables
+Naming conventions for environment variables
+defaults
+    CI
+    GITHUB_ACTION
+    GITHUB_ACTION_PATH
+creating aws RDS service
+#Inprogress
+AWS CI/CD 
+    created a Elastic beanstack
+    and rds service
