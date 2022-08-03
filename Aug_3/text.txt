@@ -1,0 +1,12 @@
+Today's completion
+AWS-Elastic container service
+1.aws-ecs (ec2 luanch type) cluster
+2.aws.ecs (fargate luanch) cluster
+setup 
+    aws-ecs (ec2 type)cluster
+        cluster
+        ec2 instances
+        servers
+        tasks
+        container(nginx image)
+#setup a ecs cluster by using a ec2 launch type
